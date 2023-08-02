@@ -5,7 +5,8 @@
 <p>
   👋&nbsp; Hi there!  I'm a <strong>full-stack developer</strong>.🚀<br/>
  I graduated from the computer software department and completed the development academy. 💻 <br/>
- I am having fun developing programs that can give pleasure and convenience to others 😁, and I am working hard to continue to develop and grow. 🧗‍♂️
+ I am having fun developing programs that can give pleasure and convenience to others 😁, <br/>
+and I am working hard to continue to develop and grow. 🧗‍♂️
 <br/>
 </p>
 <br/>
